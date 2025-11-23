@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- Retro Strategy Gaming Club Home -->
+<!--Statement: This project is entirely my own work.-->
+<!-- Author: Natalija Pavlovic -->
+
+<html lang="en-IE">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="strict-origin-when-cross-origin"/>
+    <link rel="stylesheet" href="style.css">
+    <title>MTU Retro Strategy Gaming Club </title>
+
+</head>
+
+<body>
+    <header>
+        <h1>MTU Retro Strategy Gaming Club </h1>
+    </header>
+    <nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="events.html">Events</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="about.html">About Us</a></li>
+    </ul>
+    </nav>
+
+    <main>
+        <section id="welcome">
+        <h2>Where tactical minds and epic games collide</h2>
+
+        <p>
+            Welcome to the <strong>MTU Retro Strategy Gaming Club</strong> a comunity that connects gamers passionate about
+            <abbr title="Real-Time Strategy">RTS</abbr> games.
+            Step into a community where strategy is a passion and meet other like-minded gamers.
+            From quick real-time tactics to long-term strategic planning, we explore every corner of tactical gaming.
+            Newbie or veteran, you’ll find a place to learn, improve, and enjoy the games you love.
+        </p>
+        <p>
+            <a href="join.html" class="table-button">Join the Club</a>
+        </p>
+        </section>
+
+        <section id="video">
+            <h3>Watch: What is Tactical Gaming?</h3>
+            <p>
+                This video gives a quick look why do we love <abbr title="Real-Time Strategy">RTS</abbr>.
+            </p>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/YLslsZuEaNE?si=U9cdJn9Ra93j3zrx&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+    </main>
+    <footer>
+        <hr>
+        <p>
+            Website by Natalija Pavlovic - <a href="Natalija.pavlovic@mymtu.com">Natalija.pavlovic@mymtu.com</a>
+        <p>
+        <p><small>&copy; 2025 MTU Retro Strategy Gaming Club</small></p>
+    </footer>
+
+</body>
+</html>
